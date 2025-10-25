@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i'm learning c++ and c<br/>
+Hello! I am Kaesha and I am an apsiring software engineer. I am interested in web design and product development. <br/>
+Currently, I am learning web development, multiple coding languages, and am part of multiple projects related to CS. <br/>
 ✧*:.｡.<br/>
-i like strawberries, boba, and anime :P<br/>
 
 
