@@ -1,4 +1,4 @@
-## hii i'm kixi
+## Hi, I am Kaesha!
 
 <!--
 **vinvyl/vinvyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I am Kaesha and I am an apsiring software engineer. I am interested in web design and product development. <br/>
+I am an apsiring software engineer. I am interested in web design and product development. <br/>
 Currently, I am learning web development, multiple coding languages, and am part of multiple projects related to CS. <br/>
 ✧*:.｡.<br/>
 
